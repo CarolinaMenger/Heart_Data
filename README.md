@@ -67,6 +67,7 @@ git clone https://github.com/tu_usuario/EDA_Cardiovascular.git
 - Abrí el notebook en Google Colab o Jupyter
 - Asegurate de tener el archivo heart_data.csv en la ruta correspondiente
 - Ejecutá las celdas para reproducir el análisis
+- Link a presentación de google slides https://docs.google.com/presentation/d/1zAZ5MO7JKUCs2sdACRG0QAzEWck4nVbzk6szrug5CgM/edit?usp=sharing 
 
 ### 👩‍💻 Autoría
 Proyecto desarrollado por Carolina, consultora en procesos y analítica de datos, especializada en ERPs, SQL y asistentes inteligentes.
